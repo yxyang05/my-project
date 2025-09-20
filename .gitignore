@@ -1,0 +1,4 @@
+# what file extensions to ignore
+*.csv
+data/
+secrets.txt
